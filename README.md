@@ -6,7 +6,7 @@
 
 - :wink: I am interested in the Arts, Sciences and Tech.
 - 🌱I am currently threading the path of fullstack development and cloud development.
-- 💞️ I’m looking to collaborate on front and backend projects!
+- 💞️ I am looking to collaborate on front and backend projects!
 - 📫 How to reach me: ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[praiseanthony18@gmail.com](mailto:praiseanthony18@gmail.com) 
 
 ## Find me around the web 🌍
