@@ -34,4 +34,4 @@
 
 ## ☀️ Recent Activities
 
-[![Praise's github activity graph](https://activity-graph.herokuapp.com/graph?username=PraiseImafidon)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Praise's github activity graph](https://activity-graph.herokuapp.com/graph?username=PraiseImafidon)](https://github.com/praise-imafidon/github-readme-activity-graph)
