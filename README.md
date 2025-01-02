@@ -24,9 +24,12 @@
 
 ## Frameworks & Tools I work with :sunglasses:
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-![](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burp&logoColor=white)
-![](https://img.shields.io/badge/Kali_Linux-557C7B?style=for-the-badge&logo=kalilinux&logoColor=white)
-![](https://img.shields.io/badge/Metasploit-5E5E5E?style=for-the-badge&logo=metasploit&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
+https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white
+
 
 ## My GitHub stats :innocent:
 ![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraiseImafidon&count_private=true)
