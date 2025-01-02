@@ -4,16 +4,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=PraiseImafidon)](https://github.com/PraiseImafidon/github-profile-trophy)
 
 - :wink: I'm a **Cybersecurity Analyst** specializing in **Application Security**, **Vulnerability Assessment and Penetration Testing**, and **Digital Forensics**. Currently, I'm diving into **threat detection** and improving **vulnerability scanning tools** using Python.
-  
+
 - 🌱 **I’m currently working on**:
   - Building a **vulnerability scanner** for Firefox and Thunderbird
   - Learning more about **CVEs** and **exploitation techniques**
-  
+
 - 📫 **How to reach me**: ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[praiseanthony18@gmail.com](mailto:praiseanthony18@gmail.com)
 
 ## Find me around the web 🌍
 
-- [LinkedIn]( https://www.linkedin.com/in/praise-imafidon-9855191b3)
+- [LinkedIn](https://www.linkedin.com/in/praise-imafidon-9855191b3)
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -23,13 +23,10 @@
 ![](https://img.shields.io/badge/Digital_Forensics-FDB813?style=for-the-badge&logo=caine&logoColor=white)
 
 ## Frameworks & Tools I work with :sunglasses:
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)
-https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white
-
+![](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burp&logoColor=white)
+![](https://img.shields.io/badge/Kali_Linux-557C7B?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/Metasploit-5E5E5E?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ## My GitHub stats :innocent:
 ![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraiseImafidon&count_private=true)
