@@ -4,8 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=PraiseImafidon)](https://github.com/PraiseImafidon/github-profile-trophy)
 
 
-- :wink: I am interested in the Arts, Sciences and Tech.
-I'm a Cybersecurity Analyst specializing in Application Security, Vulnerability Assessment and Penetration testing, and digital forensics. Currently, I'm diving into threat detection and improving vulnerability scanning tools using Python.
+- :wink: I'm a Cybersecurity Analyst specializing in Application Security, Vulnerability Assessment and Penetration testing, and digital forensics. Currently, I'm diving into threat detection and improving vulnerability scanning tools using Python.
 
 ### 🔧 Skills
 - Penetration Testing
