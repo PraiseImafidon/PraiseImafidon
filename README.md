@@ -16,23 +16,19 @@
 - [LinkedIn](https://www.linkedin.com/in/praise-imafidon-9855191b3)
 
 ## My skills 🚀
-![](https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![](https://img.shields.io/badge/Network_Analysis-009639?style=for-the-badge&logo=wireshark&logoColor=white)
-![](https://img.shields.io/badge/Digital_Forensics-FDB813?style=for-the-badge&logo=caine&logoColor=white)
+Penetration Testing
+Python, Bash Scripting
+Network Analysis with Wireshark
+API Security
+Report Writing
+Digital Forensics
+Web Application Security
+Vulnerability Research & Exploitation
 
 ## Frameworks & Tools I work with :sunglasses:
-![](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burp&logoColor=white)
-![](https://img.shields.io/badge/Kali_Linux-557C7B?style=for-the-badge&logo=kalilinux&logoColor=white)
-![](https://img.shields.io/badge/Metasploit-5E5E5E?style=for-the-badge&logo=metasploit&logoColor=white)
-
-## My GitHub stats :innocent:
-![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraiseImafidon&count_private=true)
-
-## 🌠 Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraiseImafidon&theme=dark)](https://git.io/streak-stats)
-
-## ☀️ Recent Activities
-[![Praise's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PraiseImafidon)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**OWASP ZAP, Burp Suite**: Penetration testing tools for web application security assessments.
+**Metasploit, Kali Linux, Caine**: Platforms used for digital forensics and exploitation testing.
+**Elastic Stack**: Utilized for security monitoring and log analysis.
+**Wireshark**: A tool for real-time packet analysis in network security.
+**Netcat**: Networking tool for managing network connections.
+**Nmap**: A network scanner used to discover hosts and services on a computer network.
