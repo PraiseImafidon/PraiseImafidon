@@ -1,30 +1,38 @@
-# Hello, I am Praise! 
+# Hello, I am Praise! 🤓
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=PraiseImafidon&color=red&style=plastic)
 [![trophy](https://github-profile-trophy.vercel.app/?username=PraiseImafidon)](https://github.com/PraiseImafidon/github-profile-trophy)
-- :wink: I am interested in the Arts, Sciences and Tech.
-- 🌱I am currently threading the path of fullstack development and cloud development.
-- 💞️ I’m looking to collaborate on front and backend projects!
-- 📫 How to reach me: [praiseanthony18@gmail.com](mailto:praiseanthony18@gmail.com)
+
+- :wink: I'm a **Cybersecurity Analyst** specializing in **Application Security**, **Vulnerability Assessment and Penetration Testing**, and **Digital Forensics**. Currently, I'm diving into **threat detection** and improving **vulnerability scanning tools** using Python.
   
+- 🌱 **I’m currently working on**:
+  - Building a **vulnerability scanner** for Firefox and Thunderbird
+  - Learning more about **CVEs** and **exploitation techniques**
+  
+- 📫 **How to reach me**: ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[praiseanthony18@gmail.com](mailto:praiseanthony18@gmail.com)
+
 ## Find me around the web 🌍
+
 - [LinkedIn]( https://www.linkedin.com/in/praise-imafidon-9855191b3)
 
 ## My skills 🚀
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/Network_Analysis-009639?style=for-the-badge&logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/Digital_Forensics-FDB813?style=for-the-badge&logo=caine&logoColor=white)
 
-## Frameworks I work with :sunglasses:
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## Frameworks & Tools I work with :sunglasses:
+![](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burp&logoColor=white)
+![](https://img.shields.io/badge/Kali_Linux-557C7B?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/Metasploit-5E5E5E?style=for-the-badge&logo=metasploit&logoColor=white)
 
-## My github stats :innocent:
+## My GitHub stats :innocent:
 ![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraiseImafidon&count_private=true)
 
 ## 🌠 Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraiseImafidon&theme=dark)](https://git.io/streak-stats)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraiseImafidon&theme=dark)](https://git.io/streak-stats)
 
 ## ☀️ Recent Activities
-[![Praise's github activity graph](https://activity-graph.herokuapp.com/graph?username=PraiseImafidon)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Praise's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PraiseImafidon)](https://github.com/ashutosh00710/github-readme-activity-graph)
