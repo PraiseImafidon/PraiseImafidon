@@ -5,8 +5,19 @@
 
 
 - :wink: I am interested in the Arts, Sciences and Tech.
-- 🌱I am currently threading the path of fullstack development and cloud development.
-- 💞️ I am looking to collaborate on front and backend projects!
+I'm a Cybersecurity Analyst specializing in Application Security, Vulnerability Assessment and Penetration testing, and digital forensics. Currently, I'm diving into threat detection and improving vulnerability scanning tools using Python.
+
+### 🔧 Skills
+- Penetration Testing
+- Python, Bash Scripting
+- Network Analysis with Wireshark
+- Vulnerability Assessment
+- Digital Forensics
+
+### 🌱 I’m currently working on
+- A vulnerability scanner for Firefox and Thunderbird
+- Learning more about CVEs and exploitation techniques
+
 - 📫 How to reach me: ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[praiseanthony18@gmail.com](mailto:praiseanthony18@gmail.com) 
 
 ## Find me around the web 🌍
