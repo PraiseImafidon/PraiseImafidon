@@ -1,28 +1,30 @@
-## Hi, I'm [Your Name] 👋  
-I'm a cybersecurity enthusiast with a passion for digital forensics, malware analysis, and vulnerability research. Currently, I'm diving into threat detection and improving vulnerability scanning tools using Python.
+# Hello, I am Praise! 
 
-### 🔧 Skills
-- **Penetration Testing**  
-- **Python**, **Bash Scripting**  
-- **Network Analysis** with **Wireshark**  
-- **Malware Reverse Engineering**  
-- **Digital Forensics**  
-- **Web Application Security**  
-- **Vulnerability Research & Exploitation**  
+![Visitor Badge](https://komarev.com/ghpvc/?username=PraiseImafidon&color=red&style=plastic)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PraiseImafidon)](https://github.com/PraiseImafidon/github-profile-trophy)
+- :wink: I am interested in the Arts, Sciences and Tech.
+- 🌱I am currently threading the path of fullstack development and cloud development.
+- 💞️ I’m looking to collaborate on front and backend projects!
+- 📫 How to reach me: [praiseanthony18@gmail.com](mailto:praiseanthony18@gmail.com)
+  
+## Find me around the web 🌍
+- [LinkedIn]( https://www.linkedin.com/in/praise-imafidon-9855191b3)
 
-### 🌱 I’m currently working on:
-- Building a **vulnerability scanner** for Firefox and Thunderbird to detect specific CVEs
-- Learning more about **CVEs**, **exploitation techniques**, and improving automated vulnerability detection
-- Enhancing my skills in **memory forensics**, **fileless malware detection**, and **network traffic analysis**
+## My skills 🚀
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Frameworks and Tools I Work With:
-- **OWASP ZAP**, **Burp Suite** for penetration testing  
-- **Metasploit**, **Kali Linux**, **Caine** for digital forensics  
-- **Elastic Stack** for security monitoring and log analysis  
-- **Flask**, **Django** for building security-focused web applications  
-- **Wireshark** for packet analysis  
-- **PyInstaller**, **Selenium** for automating tasks and building scanning tools  
+## Frameworks I work with :sunglasses:
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 📊 My GitHub Stats & Streaks
+## My github stats :innocent:
 ![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraiseImafidon&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PraiseImafidon)](https://git.io/streak-stats)
+
+## 🌠 Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraiseImafidon&theme=dark)](https://git.io/streak-stats)]
+
+## ☀️ Recent Activities
+[![Praise's github activity graph](https://activity-graph.herokuapp.com/graph?username=PraiseImafidon)](https://github.com/ashutosh00710/github-readme-activity-graph)
