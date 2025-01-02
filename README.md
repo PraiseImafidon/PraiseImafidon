@@ -23,6 +23,6 @@ I'm a cybersecurity enthusiast with a passion for digital forensics, malware ana
 - **Wireshark** for packet analysis  
 - **PyInstaller**, **Selenium** for automating tasks and building scanning tools  
 
-### 📊 GitHub Stats & Streaks
+### 📊 My GitHub Stats & Streaks
 ![Praise's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraiseImafidon&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraiseImafidon&theme=dark)](https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PraiseImafidon)](https://git.io/streak-stats)
