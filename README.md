@@ -1,8 +1,5 @@
 # Hello, I am Praise! 🤓
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=PraiseImafidon&color=red&style=plastic)
-[![trophy](https://github-profile-trophy.vercel.app/?username=PraiseImafidon)](https://github.com/PraiseImafidon/github-profile-trophy)
-
 - :wink: I'm a **Cybersecurity Analyst** specializing in **Application Security**, **Vulnerability Assessment and Penetration Testing**, and **Digital Forensics**. Currently, I'm diving into **threat detection** and improving **vulnerability scanning tools** using Python.
 
 - 🌱 **I’m currently working on**:
