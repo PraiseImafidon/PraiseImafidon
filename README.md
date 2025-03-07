@@ -3,8 +3,8 @@
 - :wink: I'm a **Software Developer** turned **Application Security Engineer**, with specialty in **Vulnerability Assessment, Penetration Testing and Secure Code Review.** Currently, I'm diving into **threat detection** and building a lot of cool stuff (some very vulnerable) by myself and with my friends. 
 
 - 🌱 **I’m currently working on**:
+  - Building a Vulnerable User Management API
   - Building a **vulnerability scanner** for Firefox and Thunderbird
-  - Building a Vulnerable User Management API 
   - Learning more about **CVEs** and **exploitation techniques**
 
 - 📫 **How to reach me**: ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[praiseanthony18@gmail.com](mailto:praiseanthony18@gmail.com)
